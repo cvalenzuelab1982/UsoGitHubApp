@@ -10,7 +10,7 @@ namespace UsoGitHubApp.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Hola mundo");
+            return Ok("Hola mundo primer cambio");
         }
     }
 }
